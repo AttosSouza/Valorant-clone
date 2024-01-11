@@ -1,8 +1,16 @@
-# React + Vite
+# Valorant Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Fala pessoal, este é o projeto valorant uma página bem simples feita em React JS responsiva e com menu mobile,
 
-Currently, two official plugins are available:
+Hello everyone, this is valorant project, a very simple page made in React JS with a mobile menu and responsive.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+link do repositório: https://lnkd.in/d4PBkq9z
+
+link do projeto: https://lnkd.in/dSHxBdXe
+
+
+![Vava](https://github.com/AttosSouza/Calculator/assets/87350423/450fb006-3fcb-44b7-8536-a7698bf744ea)
+
+
+
+
