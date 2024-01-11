@@ -11,14 +11,9 @@ section .container .hero-content {
 }
 
 section .container .hero-content h1 {
-  margin-top: 200px;
+  margin: 200px 0 34px 0;
   font-size: 18px;
   color: #FFFFFF;
-}
-
-section .container .hero-content img {
-  margin: 24px 0 34px 0;
-  height: 60px;
 }
 
 section .container .hero-content p {
