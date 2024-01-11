@@ -55,7 +55,7 @@ section .container .hero-content button {
     color: #FFFFFF;
   }
 
-  section .container .hero-content img {
+  section .container .hero-content svg {
     height: 48px;
   }
 
