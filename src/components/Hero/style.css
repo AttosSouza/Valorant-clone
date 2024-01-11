@@ -56,7 +56,8 @@ section .container .hero-content button {
   }
 
   section .container .hero-content svg {
-    height: 48px;
+    width: 320px;
+    height: 58px;
   }
 
   section .container .hero-content p {
