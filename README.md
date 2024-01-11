@@ -1,6 +1,6 @@
 # Valorant Project
 
-Fala pessoal, este é o projeto valorant uma página bem simples feita em React JS responsiva e com menu mobile,
+Fala pessoal, este é o projeto valorant, uma página bem simples feita em React JS responsiva e com menu mobile,
 
 Hello everyone, this is valorant project, a very simple page made in React JS with a mobile menu and responsive.
 
