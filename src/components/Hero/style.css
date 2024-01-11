@@ -17,6 +17,7 @@ section .container .hero-content h1 {
 }
 
 section .container .hero-content p {
+  margin-top: 24px;
   font-size: 18px;
   color: #FFFFFF;
 }
